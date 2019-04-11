@@ -1,0 +1,3 @@
+author = Lathliss
+version = 0.1
+displayName = Lathliss Mod
